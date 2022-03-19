@@ -25,3 +25,9 @@ body{
     color: aquamarine;
 }
 
+/* footer */
+.link--coptright{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
